@@ -1,6 +1,3 @@
-# tatvasoft_internship.
-intership code delete
-
 # Tatvasoft_Internship
 -The TatvaSoft internship program is a 15-day intensive training designed to provide hands-on experience and skill development in software development and IT services. This program is structured to give 
  participants practical knowledge and exposure to various modern technologies and methodologies used in the industry.
